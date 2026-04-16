@@ -1,0 +1,56 @@
+John Doe
+Senior Software Engineer
+
+john.doe@email.com | (555) 123-4567 | San Francisco, CA | linkedin.com/in/johndoe | github.com/johndoe
+
+[Summary]
+Results-driven software engineer with 8+ years of experience building scalable web applications and distributed systems. Passionate about clean architecture, team mentorship, and delivering high-impact products. Proven track record of reducing latency, increasing reliability, and leading cross-functional engineering teams.
+
+[Experience]
+
+Senior Software Engineer | Google | San Francisco, CA | June 2020 - Present
+- Led re-architecture of core search indexing pipeline, reducing query latency by 40%
+- Mentored team of 6 junior engineers, conducting weekly code reviews and design sessions
+- Drove adoption of gRPC microservices, cutting inter-service communication overhead by 30%
+- Collaborated with product and ML teams to ship 3 major features to 200M+ users
+
+Software Engineer | Meta | Menlo Park, CA | January 2017 - May 2020
+- Built real-time bidding engine for Facebook Ads, contributing $8M in additional annual revenue
+- Developed reusable React component library adopted by 12 frontend teams
+- Reduced CI/CD pipeline runtime from 45 minutes to 12 minutes through build system optimizations
+- Authored internal RFC for frontend state management standards
+
+Software Engineer Intern | Airbnb | San Francisco, CA | June 2016 - August 2016
+- Implemented dynamic pricing suggestion feature for host dashboard
+- Fixed 20+ production bugs and improved test coverage from 61% to 78%
+
+[Education]
+
+B.S. Computer Science | Stanford University | 2016
+- GPA: 3.8 / 4.0
+- Dean's List, 2014-2016
+
+[Skills]
+JavaScript, TypeScript, React, Node.js, Python, Go, GraphQL, gRPC, PostgreSQL, Redis, AWS, GCP, Docker, Kubernetes, Terraform, Git
+
+[Certifications]
+AWS Certified Solutions Architect - Professional | Amazon | 2022
+Google Cloud Professional Data Engineer | Google | 2021
+
+[Languages]
+English (Native), Spanish (Conversational), Mandarin (Basic)
+
+[Projects]
+
+OpenSearch Contrib | github.com/opensearch | TypeScript, React
+- Contributed 30+ PRs improving query builder UI performance by 25%
+- Implemented custom tokenizer plugin used by 500+ enterprise deployments
+
+DevFlow CLI | github.com/johndoe/devflow | Go, Bash
+- Built developer productivity tool with 2,000+ GitHub stars
+- Automated repetitive git workflows, saving teams ~2 hours/week
+
+[Awards]
+Google Spot Bonus - Exceptional performance on Search Infrastructure (2022)
+Meta Hackathon Winner - Best Technical Innovation for real-time translation feature (2019)
+Stanford CS Department Award for Outstanding Senior Thesis (2016)
